@@ -5,6 +5,20 @@ You can use the [editor on GitHub](https://github.com/prettyoldstory/prettyoldst
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
+### Test
+
+``` Another test
+#header1 test
+## Header2 test
+-abc
+-ddd
+
+1.dfdf
+2.39434
+
+**bold fonts** and _My test_ and `Hello world!`
+
+[link](www.canterbury.ac.nz)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
